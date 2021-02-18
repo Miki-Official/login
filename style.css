@@ -13,7 +13,7 @@ body{
     left: 50%;
     text-align: center;
     transform: translate(-50%,-50%);
-    background: transparent ;
+    background: rgba(38, 92, 172, 0.527);
 
 
 }
